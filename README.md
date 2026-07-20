@@ -37,3 +37,47 @@ A floating-point number
 Reading List:
 1. Explore various methods for reading different type of inputs
 2. Learn about formatting options such as precision, alignment, and decimal places to present output in a clear and concise manner
+
+
+Day 4: Basic Operators and Expressions
+Arithmetic Operators
+Write a program to perform the following arithmetic operations using two numbers:
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Floor Division (//)
+Modulus (%)
+Exponentiation (**)
+
+
+Relational Operators
+Write a program to compare two numbers using the following operators:
+Equal to (==)
+Not equal to (!=)
+Greater than (>)
+Less than (<)
+Greater than or equal to (>=)
+Less than or equal to (<=)
+
+
+Logical Operators
+Write a program that evaluates the following between 2 booleans(True or False):
+Logical AND (and)
+Logical OR (or)
+Logical NOT (not)
+
+
+Day 5: Conditional Statements and Loops
+If-else Statements
+Write a program that takes an integer as input and checks if it's even or odd.
+Write a program that takes an age as input and determines if the person is a child, teenager, adult, or senior citizen.
+
+Nested If-else Statements
+Using nested if-else, write a program that takes three numbers as input and determines the largest among them.
+
+For Loop
+Write a program to calculate the sum of all numbers up to the given input number.
+
+While Loop
+Write a program to calculate the factorial of a given number.
