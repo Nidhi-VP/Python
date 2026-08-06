@@ -1,0 +1,17 @@
+Write a program to check if a number is even or odd.
+
+# Program to check if a number is even or odd
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print(num, "is Even")
+else:
+    print(num, "is Odd")
+
+o/p:
+Enter a number: 15
+15 is Odd
+
+Enter a number: 22
+22 is Even
